@@ -15,7 +15,7 @@ This can be useful for dropdowns, validations, or any system where you need bank
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/YOUR_USERNAME/laravel-banks.git"
+        "url": "https://github.com/Ahmohsen96/laravel-banks.git"
     }
 ]
 ````
