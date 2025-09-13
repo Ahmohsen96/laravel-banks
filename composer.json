@@ -1,0 +1,17 @@
+{
+    "name": "ahmedali/laravel-banks",
+    "description": "Laravel package for Egyptian and Saudi banks list",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Banks\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Banks\\BanksServiceProvider"
+            ]
+        }
+    }
+}
